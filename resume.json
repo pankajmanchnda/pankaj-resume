@@ -199,17 +199,6 @@
       ]
     },
     {
-      "title": "Swing Trading Scanner US",
-      "type": "Market Scanner",
-      "url": "https://github.com/pankajmanchnda/swing-trading-scanner-us",
-      "description": "Nasdaq and S&P 500 daily scanner project that demonstrates automated market screening and repeatable decision-support workflows.",
-      "tags": [
-        "Nasdaq",
-        "S&P 500",
-        "Daily Scanner"
-      ]
-    },
-    {
       "title": "Swing Trading Scanner",
       "type": "Research Widget",
       "url": "https://github.com/pankajmanchnda/swing-trading-scanner",
