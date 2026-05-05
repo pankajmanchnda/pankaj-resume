@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pankaj Manchanda | Operations, AML Policy & AI Orchestration</title>
+    <meta name="description" content="Director-level operations and business transformation leader with FinTech, AML policy implementation, compliance operations, and hands-on AI orchestration practice.">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar" aria-label="Profile navigation">
+      <a class="brand" href="#top" aria-label="Pankaj Manchanda resume home">
+        <span class="brand-mark">PM</span>
+        <span class="brand-text">Pankaj Manchanda</span>
+      </a>
+      <nav class="nav-links" aria-label="Resume sections">
+        <a href="#experience">Experience</a>
+        <a href="#capabilities">Capabilities</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <button class="icon-button" type="button" id="printButton" aria-label="Print resume" title="Print resume">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M6 9V3h12v6M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2M6 14h12v7H6z"/></svg>
+      </button>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="profileName">
+        <div class="hero-copy">
+          <p class="eyebrow" id="focusLine"></p>
+          <h1 id="profileName"></h1>
+          <p class="headline" id="headline"></p>
+          <p class="positioning" id="positioning"></p>
+          <div class="contact-strip" id="contactStrip" aria-label="Contact details"></div>
+        </div>
+        <div class="signal-panel" aria-label="Operating profile visual">
+          <div class="orbit-map">
+            <div class="orbit-core">Ops</div>
+            <div class="orbit-node node-aml">AML</div>
+            <div class="orbit-node node-ai">AI</div>
+            <div class="orbit-node node-scale">Scale</div>
+            <div class="orbit-node node-vendor">BPO</div>
+          </div>
+          <p class="signal-caption">Operations discipline with compliance controls and practical AI orchestration.</p>
+        </div>
+      </section>
+
+      <section class="metrics-band" id="impactMetrics" aria-label="Selected impact metrics"></section>
+
+      <section class="content-grid">
+        <section class="main-column" aria-labelledby="summaryTitle">
+          <h2 id="summaryTitle">Executive Summary</h2>
+          <div class="summary-list" id="summaryList"></div>
+        </section>
+        <aside class="side-column" aria-labelledby="targetTitle">
+          <h2 id="targetTitle">Target Roles</h2>
+          <div class="tag-list" id="targetRoles"></div>
+        </aside>
+      </section>
+
+      <section class="experience-section" id="experience" aria-labelledby="experienceTitle">
+        <h2 id="experienceTitle">Experience</h2>
+        <div class="timeline" id="experienceList"></div>
+      </section>
+
+      <section class="capability-section" id="capabilities" aria-labelledby="capabilitiesTitle">
+        <h2 id="capabilitiesTitle">Capabilities</h2>
+        <div class="capability-grid" id="capabilityGrid"></div>
+      </section>
+
+      <section class="model-section" aria-labelledby="modelTitle">
+        <div class="section-heading">
+          <h2 id="modelTitle">Operating Model</h2>
+          <p>How Pankaj turns operational complexity into measurable execution.</p>
+        </div>
+        <div class="model-steps" id="operatingModel"></div>
+      </section>
+
+      <section class="credentials-section" aria-labelledby="credentialsTitle">
+        <div>
+          <h2 id="credentialsTitle">Education & Professional Development</h2>
+          <div class="credential-list" id="educationList"></div>
+          <div class="language-list" id="languageList"></div>
+        </div>
+        <div>
+          <h2>Executive Differentiators</h2>
+          <div class="differentiator-list" id="differentiatorList"></div>
+        </div>
+      </section>
+
+      <section class="contact-section" id="contact" aria-labelledby="contactTitle">
+        <div>
+          <h2 id="contactTitle">Available for Director-Level Operations Roles</h2>
+          <p id="closingLine"></p>
+        </div>
+        <a class="primary-button" id="emailButton" href="#">Email Pankaj</a>
+      </section>
+
+      <section class="editor-panel" id="editorPanel" aria-labelledby="editorTitle" hidden>
+        <div class="editor-header">
+          <div>
+            <h2 id="editorTitle">Edit Resume Data</h2>
+            <p>Make changes, preview them instantly, then save the exported JSON back to <strong>resume.json</strong>.</p>
+          </div>
+          <div class="editor-actions">
+            <button type="button" id="applyDataButton">Preview</button>
+            <button type="button" id="downloadDataButton">Export JSON</button>
+          </div>
+        </div>
+        <textarea id="dataEditor" spellcheck="false" aria-label="Resume JSON editor"></textarea>
+        <p class="editor-status" id="editorStatus" role="status"></p>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
