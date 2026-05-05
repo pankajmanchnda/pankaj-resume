@@ -15,9 +15,10 @@ function renderContact(contact) {
   const contactItems = [
     { label: contact.phone, href: `tel:${contact.phone.replace(/[^\d+]/g, "")}` },
     { label: contact.email, href: `mailto:${contact.email}` },
+    { label: "GitHub Public Work", href: contact.github },
     { label: contact.location },
     { label: contact.workStyle }
-  ];
+  ].filter((item) => item.label);
 
   contactItems.forEach((item) => {
     const element = item.href ? document.createElement("a") : document.createElement("span");
