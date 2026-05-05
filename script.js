@@ -15,7 +15,9 @@ function renderContact(contact) {
   const contactItems = [
     { label: contact.phone, href: `tel:${contact.phone.replace(/[^\d+]/g, "")}` },
     { label: contact.email, href: `mailto:${contact.email}` },
+    { label: "LinkedIn Profile", href: contact.linkedin },
     { label: "View My GitHub Projects", href: contact.github },
+    { label: "Download Resume PDF", href: contact.resumePdf, download: true },
     { label: contact.location },
     { label: contact.workStyle }
   ].filter((item) => item.label);
@@ -24,7 +26,16 @@ function renderContact(contact) {
     const element = item.href ? document.createElement("a") : document.createElement("span");
     element.className = "contact-pill";
     element.textContent = item.label;
-    if (item.href) element.href = item.href;
+    if (item.href) {
+      element.href = item.href;
+      if (/^https?:\/\//.test(item.href)) {
+        element.target = "_blank";
+        element.rel = "noopener";
+      }
+      if (item.download) {
+        element.setAttribute("download", "");
+      }
+    }
     strip.appendChild(element);
   });
 }
@@ -138,6 +149,46 @@ function renderCapabilities(capabilities) {
   });
 }
 
+function renderProjects(projects) {
+  const container = byId("featuredProjects");
+  container.innerHTML = "";
+
+  projects.forEach((project) => {
+    const card = document.createElement("article");
+    card.className = "project-card";
+
+    const type = document.createElement("p");
+    type.className = "project-type";
+    type.textContent = project.type;
+
+    const title = document.createElement("h3");
+    title.textContent = project.title;
+
+    const description = document.createElement("p");
+    description.className = "project-description";
+    description.textContent = project.description;
+
+    const tags = document.createElement("div");
+    tags.className = "project-tags";
+    project.tags.forEach((tagText) => {
+      const tag = document.createElement("span");
+      tag.className = "tag";
+      tag.textContent = tagText;
+      tags.appendChild(tag);
+    });
+
+    const link = document.createElement("a");
+    link.className = "project-link";
+    link.href = project.url;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.textContent = "View project";
+
+    card.append(type, title, description, tags, link);
+    container.appendChild(card);
+  });
+}
+
 function renderOperatingModel(steps) {
   const container = byId("operatingModel");
   container.innerHTML = "";
@@ -208,6 +259,7 @@ function renderResume(data) {
   byId("profileName").textContent = data.name;
   byId("headline").textContent = data.headline;
   byId("positioning").textContent = data.positioning;
+  byId("availabilityLine").textContent = data.availability;
   byId("closingLine").textContent = `${data.contact.location}. ${data.contact.workStyle}.`;
   byId("emailButton").href = `mailto:${data.contact.email}`;
 
@@ -216,6 +268,7 @@ function renderResume(data) {
   renderSummary(data.summary);
   renderTags("targetRoles", data.targetRoles);
   renderExperience(data.experience);
+  renderProjects(data.featuredProjects);
   renderCapabilities(data.capabilities);
   renderOperatingModel(data.operatingModel);
   renderEducation(data.education, data.languages);
