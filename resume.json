@@ -6,9 +6,12 @@
     "phone": "+1-925-623-3377",
     "email": "Pankaj_Manchanda@icloud.com",
     "github": "https://github.com/pankajmanchnda",
+    "linkedin": "https://www.linkedin.com/in/pankajmanchnda",
+    "resumePdf": "assets/Pankaj_Manchanda_Resume_2026.pdf",
     "location": "Open to Nationwide U.S. Opportunities",
     "workStyle": "Remote, Hybrid and Relocation"
   },
+  "availability": "Available for Director, Senior Director, Head of Operations, AML/Compliance Operations and AI-enabled Operations Transformation roles.",
   "focusAreas": [
     "Operations Leadership",
     "AML Policy Implementation",
@@ -182,6 +185,30 @@
     "FinTech Operations",
     "Compliance Operations",
     "AI-Enabled Operations Optimization"
+  ],
+  "featuredProjects": [
+    {
+      "title": "Trading Agents",
+      "type": "Agentic Trading Research",
+      "url": "https://github.com/pankajmanchnda/trading-agents",
+      "description": "Public project for global trading agents and performance reports, showing hands-on experimentation with agent-driven research workflows.",
+      "tags": [
+        "Trading Agents",
+        "Performance Reports",
+        "Workflow Automation"
+      ]
+    },
+    {
+      "title": "Swing Trading Scanner",
+      "type": "Research Widget",
+      "url": "https://github.com/pankajmanchnda/swing-trading-scanner",
+      "description": "Nifty trading research widget focused on turning market data review into a structured scanning and research workflow.",
+      "tags": [
+        "Nifty",
+        "Research Workflow",
+        "Automation Practice"
+      ]
+    }
   ],
   "operatingModel": [
     {
