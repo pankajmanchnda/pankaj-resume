@@ -1,7 +1,7 @@
 {
   "name": "Pankaj Manchanda",
   "headline": "Founder-Operator and Operations Leader for Scale, Margin Improvement, AML Discipline and Practical AI Adoption",
-  "positioning": "I help businesses move from scattered execution to clear operating rhythm. Across 26+ years, I have built teams, opened markets, improved margins, managed regulated operations and turned founder-level ideas into practical systems that can scale.",
+  "positioning": "Founder-operator and operations leader with 26+ years of experience turning strategy into execution across regulated FinTech, e-commerce, real estate, BPO, technology and international business environments. Known for aligning teams, building operating systems, improving margins and creating the rhythm needed to scale.",
   "contact": {
     "phone": "+1-925-623-3377",
     "email": "Pankaj_Manchanda@icloud.com",
@@ -21,10 +21,10 @@
     "AML and AI Adoption"
   ],
   "summary": [
-    "I am a hands-on operator who is comfortable sitting close to the founder, understanding the direction of the business and turning that direction into execution across teams, vendors, systems and customers.",
-    "My strength is seeing the bigger picture, then breaking it into the daily operating pieces: who owns what, what needs to be measured, where the process is leaking time or money and how the team can move faster without losing control.",
-    "I have led regulated FinTech operations, built BSA/AML and KYC workflows from the ground up, scaled e-commerce operations to 55,000+ annual orders and improved margins through BPO redesign, automation and tighter operating discipline.",
-    "I also bring practical AI exposure. I use tools like LLM workflows, n8n, Make, Replit, Bolt and APIs to reduce manual work, improve reporting and help teams adopt automation in a realistic way."
+    "Hands-on founder's office style operator who can sit close to leadership, understand the business direction and convert broad priorities into clear execution across teams, vendors, systems and customers.",
+    "Strong at seeing the bigger picture, then breaking it into the operating details that matter: ownership, cadence, measurement, cost leakage, process gaps and the team behaviors needed to move faster without losing control.",
+    "Led regulated FinTech operations, built BSA/AML and KYC workflows from the ground up, scaled e-commerce operations to 55,000+ annual orders and improved margins through BPO redesign, automation and tighter operating discipline.",
+    "Brings practical AI exposure through LLM workflows, n8n, Make, Replit, Bolt and API-based automation, with a focus on reducing manual work, improving reporting and helping teams adopt tools in a realistic way."
   ],
   "impactMetrics": [
     {
@@ -49,7 +49,7 @@
     }
   ],
   "valueProposition": [
-    "A founder's office style operator who can think strategically, organize execution and keep people moving toward measurable outcomes.",
+    "Founder's office style operator who connects strategy, people and execution without losing sight of margin, risk and customer experience.",
     "Experienced in building teams, improving process discipline, managing vendors, protecting compliance standards and finding practical ways to improve profitability."
   ],
   "experience": [
@@ -57,21 +57,21 @@
       "role": "AI Operations Transformation Advisor",
       "company": "Independent Consulting / Self-Directed | Remote | FinTech, Real Estate and Early-Stage Tech",
       "period": "Jan 2025 - Present",
-      "description": "Work with early-stage and legacy businesses to simplify operations, identify where teams are losing time and introduce practical AI and automation where it can create real operating leverage.",
+      "description": "Advises early-stage and legacy businesses on simplifying operations, identifying where teams lose time and introducing practical AI and automation where it can create real operating leverage.",
       "bullets": [
-        "Review workflows across compliance, onboarding, documentation, customer operations and reporting to find bottlenecks, repeated manual work and unclear ownership.",
-        "Build practical automation workflows using LLMs, n8n, Make, Replit, Bolt and APIs so teams can move faster without depending only on extra headcount.",
-        "Help business owners decide where AI is useful, where process discipline should come first and how automation can support cost control, reporting and scale."
+        "Reviews workflows across compliance, onboarding, documentation, customer operations and reporting to find bottlenecks, repeated manual work and unclear ownership.",
+        "Builds practical automation workflows using LLMs, n8n, Make, Replit, Bolt and APIs so teams can move faster without depending only on extra headcount.",
+        "Helps business owners decide where AI is useful, where process discipline should come first and how automation can support cost control, reporting and scale."
       ]
     },
     {
       "role": "Partner - Operations and Investment",
       "company": "Varad Infra | Ujjain, India | Residential and Commercial Real Estate",
       "period": "Jan 2023 - Present",
-      "description": "Support real estate projects from investment thinking through execution, with direct involvement in vendors, approvals, budgets, project quality and final delivery.",
+      "description": "Supports real estate projects from investment thinking through execution, with direct involvement in vendors, approvals, budgets, project quality and final delivery.",
       "bullets": [
-        "Coordinate land acquisition, contractor negotiations, regulatory approvals, construction oversight, budget discipline and post-completion review.",
-        "Guide design, layout, vendor selection and finish decisions so project quality, market positioning and long-term value stay aligned."
+        "Coordinates land acquisition, contractor negotiations, regulatory approvals, construction oversight, budget discipline and post-completion review.",
+        "Guides design, layout, vendor selection and finish decisions so project quality, market positioning and long-term value stay aligned."
       ]
     },
     {
@@ -98,158 +98,3 @@
       ]
     },
     {
-      "role": "Director of Operations",
-      "company": "Horizon Expo LLC | Las Vegas, NV | International B2B Exhibition and Events",
-      "period": "May 2005 - Sep 2008",
-      "description": "Founded and ran a boutique international exhibition company, managing the full operating engine behind cross-border real estate events.",
-      "bullets": [
-        "Executed three pan-India real estate expos within 18 months, including a landmark event at Madison Square Garden, New York.",
-        "Led vendors, sponsors, logistics, permits, delegate coordination, venue operations and stakeholder communication across multiple geographies.",
-        "Earned three FIA industry excellence awards for event execution and international business coordination."
-      ]
-    },
-    {
-      "role": "Account Manager - Enterprise Technology",
-      "company": "CaminoSoft Corp | Westlake Village, CA | ILM and High-Availability Solutions",
-      "period": "Apr 2002 - Apr 2005",
-      "description": "Managed enterprise technology accounts and supported adoption across mid-market and Fortune 500 environments.",
-      "bullets": [
-        "Worked with clients and channel partners to support account growth, technology adoption and long-term relationship development.",
-        "Built experience with enterprise sales motions and partner ecosystems including Dell, EMC, Novell and Ingram Micro."
-      ]
-    },
-    {
-      "role": "Business Development Officer",
-      "company": "Soffia Tech Inc | Fremont, CA | Staffing and BPO | Fortune 1000",
-      "period": "Feb 2000 - Mar 2002",
-      "description": "Built early experience in BPO, staffing, enterprise client development and account coordination.",
-      "bullets": [
-        "Developed strategic account pipelines across staffing and BPO verticals.",
-        "Generated repeat Fortune 1000 business through consultative relationship management and reliable follow-through."
-      ]
-    }
-  ],
-  "capabilities": [
-    {
-      "title": "Founder's Office and Strategy",
-      "items": [
-        "Strategic direction",
-        "Founder-level execution",
-        "Business model thinking",
-        "Prioritization and follow-through",
-        "Cross-functional leadership",
-        "Startup launch and turnaround"
-      ]
-    },
-    {
-      "title": "Operations and Margin",
-      "items": [
-        "Operating model design",
-        "P&L and budget ownership",
-        "Process discipline",
-        "BPO and vendor governance",
-        "Supply chain and fulfillment",
-        "Cost reduction and margin improvement"
-      ]
-    },
-    {
-      "title": "AML and Compliance Operations",
-      "items": [
-        "BSA/AML operations",
-        "KYC, CDD and EDD",
-        "SAR/CTR workflows",
-        "FinCEN/MSB reporting",
-        "Digital asset compliance",
-        "Audit readiness"
-      ]
-    },
-    {
-      "title": "AI and Automation Practice",
-      "items": [
-        "AI workflow strategy",
-        "LLM-enabled reporting",
-        "Process automation",
-        "Customer onboarding workflows",
-        "API workflow orchestration",
-        "Tools: n8n, Make, Replit, Bolt"
-      ]
-    }
-  ],
-  "targetRoles": [
-    "Founder's Office",
-    "Director of Operations",
-    "Senior Director, Operations",
-    "Head of Operations",
-    "Business Operations and Transformation",
-    "FinTech Operations",
-    "AML and Compliance Operations"
-  ],
-  "featuredProjects": [
-    {
-      "title": "Trading Agents",
-      "type": "Agentic Trading Research",
-      "url": "https://github.com/pankajmanchnda/trading-agents",
-      "description": "Public project for global trading agents and performance reports, showing hands-on experimentation with agent-driven research workflows.",
-      "tags": [
-        "Trading Agents",
-        "Performance Reports",
-        "Workflow Automation"
-      ]
-    },
-    {
-      "title": "Swing Trading Scanner",
-      "type": "Research Widget",
-      "url": "https://github.com/pankajmanchnda/swing-trading-scanner",
-      "description": "Nifty trading research widget focused on turning market data review into a structured scanning and research workflow.",
-      "tags": [
-        "Nifty",
-        "Research Workflow",
-        "Automation Practice"
-      ]
-    }
-  ],
-  "operatingModel": [
-    {
-      "step": "See the Direction",
-      "detail": "Understand the founder's priorities, the market opportunity, the operating gaps and the few decisions that matter most."
-    },
-    {
-      "step": "Align the Team",
-      "detail": "Give people clear ownership, practical goals and a rhythm that keeps work moving without confusion."
-    },
-    {
-      "step": "Build the System",
-      "detail": "Turn ideas into workflows, controls, vendor routines, reporting habits and automation where it makes sense."
-    },
-    {
-      "step": "Improve the Margin",
-      "detail": "Measure what is working, reduce waste, tighten execution and scale the business without letting costs grow unchecked."
-    }
-  ],
-  "education": [
-    {
-      "credential": "Master of Commerce",
-      "institution": "University of India",
-      "period": "1997"
-    },
-    {
-      "credential": "AI Generalist Certification Program",
-      "institution": "Professional Development",
-      "period": "In Progress | 2025-2026"
-    },
-    {
-      "credential": "Short-Term Momentum and Price Action Trading Certification",
-      "institution": "Professional Development",
-      "period": "2025"
-    }
-  ],
-  "languages": [
-    "English (Professional)",
-    "Hindi (Native)"
-  ],
-  "differentiators": [
-    "I have worked like an owner, not only as a functional manager. I am comfortable taking a broad business problem and staying with it until execution becomes clear.",
-    "I can lead teams through ambiguity by setting direction, simplifying priorities and keeping people motivated around practical outcomes.",
-    "I bring a rare mix of commercial judgment, operating discipline, AML/compliance experience, vendor management and practical AI adoption."
-  ]
-}
