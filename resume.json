@@ -186,6 +186,17 @@
   ],
   "featuredProjects": [
     {
+      "title": "AML Compliance Framework",
+      "type": "Compliance Artifact",
+      "url": "assets/aml-framework.pdf",
+      "description": "Downloadable AML framework document connected to this GitHub-hosted resume site, supporting Pankaj's BSA/AML and compliance operations positioning.",
+      "tags": [
+        "AML",
+        "Compliance Operations",
+        "Risk Controls"
+      ]
+    },
+    {
       "title": "Trading Agents",
       "type": "Agentic Trading Research",
       "url": "https://github.com/pankajmanchnda/trading-agents",
