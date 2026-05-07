@@ -98,3 +98,158 @@
       ]
     },
     {
+      "role": "Director of Operations",
+      "company": "Horizon Expo LLC | Las Vegas, NV | International B2B Exhibition and Events",
+      "period": "May 2005 - Sep 2008",
+      "description": "Founded and ran a boutique international exhibition company, managing the full operating engine behind cross-border real estate events.",
+      "bullets": [
+        "Executed three pan-India real estate expos within 18 months, including a landmark event at Madison Square Garden, New York.",
+        "Led vendors, sponsors, logistics, permits, delegate coordination, venue operations and stakeholder communication across multiple geographies.",
+        "Earned three FIA industry excellence awards for event execution and international business coordination."
+      ]
+    },
+    {
+      "role": "Account Manager - Enterprise Technology",
+      "company": "CaminoSoft Corp | Westlake Village, CA | ILM and High-Availability Solutions",
+      "period": "Apr 2002 - Apr 2005",
+      "description": "Managed enterprise technology accounts and supported adoption across mid-market and Fortune 500 environments.",
+      "bullets": [
+        "Worked with clients and channel partners to support account growth, technology adoption and long-term relationship development.",
+        "Built experience with enterprise sales motions and partner ecosystems including Dell, EMC, Novell and Ingram Micro."
+      ]
+    },
+    {
+      "role": "Business Development Officer",
+      "company": "Soffia Tech Inc | Fremont, CA | Staffing and BPO | Fortune 1000",
+      "period": "Feb 2000 - Mar 2002",
+      "description": "Built early experience in BPO, staffing, enterprise client development and account coordination.",
+      "bullets": [
+        "Developed strategic account pipelines across staffing and BPO verticals.",
+        "Generated repeat Fortune 1000 business through consultative relationship management and reliable follow-through."
+      ]
+    }
+  ],
+  "capabilities": [
+    {
+      "title": "Founder's Office and Strategy",
+      "items": [
+        "Strategic direction",
+        "Founder-level execution",
+        "Business model thinking",
+        "Prioritization and follow-through",
+        "Cross-functional leadership",
+        "Startup launch and turnaround"
+      ]
+    },
+    {
+      "title": "Operations and Margin",
+      "items": [
+        "Operating model design",
+        "P&L and budget ownership",
+        "Process discipline",
+        "BPO and vendor governance",
+        "Supply chain and fulfillment",
+        "Cost reduction and margin improvement"
+      ]
+    },
+    {
+      "title": "AML and Compliance Operations",
+      "items": [
+        "BSA/AML operations",
+        "KYC, CDD and EDD",
+        "SAR/CTR workflows",
+        "FinCEN/MSB reporting",
+        "Digital asset compliance",
+        "Audit readiness"
+      ]
+    },
+    {
+      "title": "AI and Automation Practice",
+      "items": [
+        "AI workflow strategy",
+        "LLM-enabled reporting",
+        "Process automation",
+        "Customer onboarding workflows",
+        "API workflow orchestration",
+        "Tools: n8n, Make, Replit, Bolt"
+      ]
+    }
+  ],
+  "targetRoles": [
+    "Founder's Office",
+    "Director of Operations",
+    "Senior Director, Operations",
+    "Head of Operations",
+    "Business Operations and Transformation",
+    "FinTech Operations",
+    "AML and Compliance Operations"
+  ],
+  "featuredProjects": [
+    {
+      "title": "Trading Agents",
+      "type": "Agentic Trading Research",
+      "url": "https://github.com/pankajmanchnda/trading-agents",
+      "description": "Public project for global trading agents and performance reports, showing hands-on experimentation with agent-driven research workflows.",
+      "tags": [
+        "Trading Agents",
+        "Performance Reports",
+        "Workflow Automation"
+      ]
+    },
+    {
+      "title": "Swing Trading Scanner",
+      "type": "Research Widget",
+      "url": "https://github.com/pankajmanchnda/swing-trading-scanner",
+      "description": "Nifty trading research widget focused on turning market data review into a structured scanning and research workflow.",
+      "tags": [
+        "Nifty",
+        "Research Workflow",
+        "Automation Practice"
+      ]
+    }
+  ],
+  "operatingModel": [
+    {
+      "step": "See the Direction",
+      "detail": "Understand the founder's priorities, the market opportunity, the operating gaps and the few decisions that matter most."
+    },
+    {
+      "step": "Align the Team",
+      "detail": "Give people clear ownership, practical goals and a rhythm that keeps work moving without confusion."
+    },
+    {
+      "step": "Build the System",
+      "detail": "Turn ideas into workflows, controls, vendor routines, reporting habits and automation where it makes sense."
+    },
+    {
+      "step": "Improve the Margin",
+      "detail": "Measure what is working, reduce waste, tighten execution and scale the business without letting costs grow unchecked."
+    }
+  ],
+  "education": [
+    {
+      "credential": "Master of Commerce",
+      "institution": "University of India",
+      "period": "1997"
+    },
+    {
+      "credential": "AI Generalist Certification Program",
+      "institution": "Professional Development",
+      "period": "In Progress | 2025-2026"
+    },
+    {
+      "credential": "Short-Term Momentum and Price Action Trading Certification",
+      "institution": "Professional Development",
+      "period": "2025"
+    }
+  ],
+  "languages": [
+    "English (Professional)",
+    "Hindi (Native)"
+  ],
+  "differentiators": [
+    "Works like an owner, not only as a functional manager; comfortable taking a broad business problem and staying with it until execution becomes clear.",
+    "Able to lead teams through ambiguity by setting direction, simplifying priorities and keeping people motivated around practical outcomes.",
+    "Brings a rare mix of commercial judgment, operating discipline, AML/compliance experience, vendor management and practical AI adoption."
+  ]
+}
