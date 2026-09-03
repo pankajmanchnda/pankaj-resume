@@ -1,30 +1,30 @@
 {
   "name": "Pankaj Manchanda",
-  "headline": "Founder-Operator and Operations Leader for Scale, Margin Improvement, AML Discipline and Practical AI Adoption",
-  "positioning": "Founder-operator and operations leader with 26+ years of experience turning strategy into execution across regulated FinTech, e-commerce, real estate, BPO, technology and international business environments. Known for aligning teams, building operating systems, improving margins and creating the rhythm needed to scale.",
+  "headline": "Founder and Operations Executive Using AI to Redesign Workflows, Build Practical Systems and Deliver Business Results",
+  "positioning": "Founder-operator and former COO with 26+ years of experience turning business priorities into scalable operations, stronger economics and better customer outcomes. Now applying recent hands-on experience with voice AI, RAG, agent orchestration and workflow automation to build practical, governed solutions from discovery through launch.",
   "contact": {
     "phone": "+1-925-623-3377",
     "email": "Pankaj_Manchanda@icloud.com",
     "github": "https://github.com/pankajmanchnda",
     "linkedin": "https://www.linkedin.com/in/pankajmanchnda",
-    "resumePdf": "assets/Pankaj_Manchanda_Resume_2026.pdf",
-    "location": "Open to Nationwide U.S. Opportunities",
-    "workStyle": "Remote, Hybrid and Relocation"
+    "portfolio": "https://agenticopsstudio.com",
+    "location": "U.S. Citizen | Open across the continental United States",
+    "workStyle": "Remote preferred | Open to hybrid and travel"
   },
-  "availability": "Available for Founder's Office, Director of Operations, Head of Operations, AML/Compliance Operations and AI-enabled Operations Transformation roles.",
+  "availability": "Available for AI implementation, AI solutions, operations transformation and customer deployment roles.",
   "focusAreas": [
-    "Strategic Direction",
-    "Founder's Office Execution",
-    "Team Leadership",
-    "Scaling Operations",
-    "Margin Improvement",
-    "AML and AI Adoption"
+    "AI Implementation",
+    "Agent Orchestration",
+    "Workflow Redesign",
+    "Operations Leadership",
+    "Governance",
+    "ROI"
   ],
   "summary": [
-    "Hands-on founder's office style operator who can sit close to leadership, understand the business direction and convert broad priorities into clear execution across teams, vendors, systems and customers.",
-    "Strong at seeing the bigger picture, then breaking it into the operating details that matter: ownership, cadence, measurement, cost leakage, process gaps and the team behaviors needed to move faster without losing control.",
-    "Led regulated FinTech operations, built BSA/AML and KYC workflows from the ground up, scaled e-commerce operations to 55,000+ annual orders and improved margins through BPO redesign, automation and tighter operating discipline.",
-    "Brings practical AI exposure through LLM workflows, n8n, Make, Replit, Bolt and API-based automation, with a focus on reducing manual work, improving reporting and helping teams adopt tools in a realistic way."
+    "Business-first AI implementer who identifies the operating problem, defines the result, maps the workflow and stays with the work through architecture, build direction, testing, rollout and adoption.",
+    "Uses AI-assisted development to move quickly while applying human judgment to policies, edge cases, data boundaries, access controls and release readiness.",
+    "Built voice AI, RAG-based knowledge systems, automated intake and follow-up workflows, multi-role approval platforms, accounting automation and AI-assisted trading tools.",
+    "Earlier leadership includes seven years running a regulated digital-asset MSB, scaling e-commerce operations to 55,000+ annual orders and reducing operating costs by more than 30%."
   ],
   "impactMetrics": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "value": "7",
-      "label": "years operating a FinCEN-registered digital asset MSB"
+      "label": "years operating a FinCEN-registered digital-asset MSB"
     },
     {
       "value": "0",
@@ -41,189 +41,182 @@
     },
     {
       "value": "55K+",
-      "label": "annual orders scaled in DTC and wholesale operations"
+      "label": "annual orders scaled in e-commerce operations"
     },
     {
       "value": "30%+",
-      "label": "operating cost reduction through BPO redesign"
+      "label": "operating cost reduction through process and BPO redesign"
     }
-  ],
-  "valueProposition": [
-    "Founder's office style operator who connects strategy, people and execution without losing sight of margin, risk and customer experience.",
-    "Experienced in building teams, improving process discipline, managing vendors, protecting compliance standards and finding practical ways to improve profitability."
   ],
   "experience": [
     {
-      "role": "AI Operations Transformation Advisor",
-      "company": "Independent Consulting / Self-Directed | Remote | FinTech, Real Estate and Early-Stage Tech",
-      "period": "Jan 2025 - Present",
-      "description": "Advises early-stage and legacy businesses on simplifying operations, identifying where teams lose time and introducing practical AI and automation where it can create real operating leverage.",
+      "role": "Founder & Applied AI Implementation Lead",
+      "company": "AgenticOpsStudio.com | Las Vegas, NV / Remote | AI Automation and Orchestration",
+      "period": "2026 - Present",
+      "description": "Builds practical AI systems for service-business growth, customer response, knowledge access and operating efficiency.",
       "bullets": [
-        "Reviews workflows across compliance, onboarding, documentation, customer operations and reporting to find bottlenecks, repeated manual work and unclear ownership.",
-        "Builds practical automation workflows using LLMs, n8n, Make, Replit, Bolt and APIs so teams can move faster without depending only on extra headcount.",
-        "Helps business owners decide where AI is useful, where process discipline should come first and how automation can support cost control, reporting and scale."
+        "Owns delivery end to end: workflow discovery, value definition, solution architecture, AI-assisted build direction, integrations, UAT, rollout, documentation and stabilization.",
+        "Built a 24/7 AI Voice Receptionist and an AI Lead Converter designed to respond to web, Google Ads and Facebook inquiries in under 90 seconds.",
+        "Built AOS Operations Autopilot using voice and text workflows, RAG-based knowledge retrieval and the OpenAI API to automate intake, CRM updates, follow-up and owner reporting.",
+        "Developed an AI-assisted platform for swing and short-term momentum trading with repeatable research, screening and decision workflows.",
+        "Uses modular, low-cost architecture with test matrices, acceptance gates, role-based access, human review, audit logs and rollback planning."
       ]
     },
     {
-      "role": "Partner - Operations and Investment",
-      "company": "Varad Infra | Ujjain, India | Residential and Commercial Real Estate",
+      "role": "MSB Compliance Consultant",
+      "company": "Self-Directed Consulting | Remote | AML Program Implementation",
       "period": "Jan 2023 - Present",
-      "description": "Supports real estate projects from investment thinking through execution, with direct involvement in vendors, approvals, budgets, project quality and final delivery.",
+      "description": "Independent client engagement supporting the development and practical implementation of a risk-based AML program.",
       "bullets": [
-        "Coordinates land acquisition, contractor negotiations, regulatory approvals, construction oversight, budget discipline and post-completion review.",
-        "Guides design, layout, vendor selection and finish decisions so project quality, market positioning and long-term value stay aligned."
+        "Helped an MSB develop an AML policy aligned to its products, customer profiles, transaction flows, geographic exposure and regulatory obligations.",
+        "Translated policy into procedures for KYC, CDD, EDD, sanctions screening, transaction monitoring, suspicious-activity escalation, records, training, independent review and management reporting.",
+        "Worked with business and technical stakeholders to define ownership, evidence, escalation thresholds and implementation steps so the program remained practical and audit-ready."
       ]
     },
     {
       "role": "Chief Operating Officer",
-      "company": "Sharp Technologies Inc (InstaUSDT) | Irvine, CA | FinCEN-Registered MSB",
+      "company": "Sharp Technologies Inc (InstaUSDT) | Irvine, CA | FinCEN-Registered Digital-Asset MSB",
       "period": "Jul 2015 - Dec 2022",
-      "description": "Ran day-to-day operations for a FinCEN-registered digital asset Money Services Business, bringing together compliance, customer operations, technology workflows, finance coordination and regulatory reporting.",
+      "description": "Led operations across compliance, customer experience, technology workflows, finance, vendors and regulatory reporting in a sensitive MSB and crypto environment.",
       "bullets": [
-        "Built the BSA/AML operating foundation from the ground up, including KYC, CDD, EDD, transaction monitoring, SAR/CTR workflows, audit readiness and FinCEN reporting discipline.",
-        "Translated compliance requirements into usable onboarding and transaction workflows so the business could serve customers while keeping risk controls in place.",
-        "Maintained seven years of operations with zero BSA/AML regulatory violations through clear controls, ownership and steady compliance governance.",
-        "Helped the business grow by building trust, improving operating reliability and keeping regulatory readiness close to commercial execution."
+        "Converted BSA/AML, KYC, CDD, EDD, transaction-monitoring and reporting requirements into usable operating workflows.",
+        "Balanced commercial execution with auditability, escalation controls and careful handling of customer and transaction risk.",
+        "Sustained seven years of operations with zero BSA/AML regulatory violations."
       ]
     },
     {
       "role": "Operations Partner",
       "company": "KR Management Services LLC | Las Vegas, NV | D2C E-Commerce and Wholesale Apparel",
       "period": "Oct 2008 - Jun 2015",
-      "description": "Helped scale an apparel business by building the operating model across marketing support, BPO partners, warehousing, inventory, customer service and fulfillment.",
+      "description": "Built and scaled the operating model across inventory, warehousing, fulfillment, customer support, vendors and BPO partners.",
       "bullets": [
-        "Scaled operations from startup stage to 55,000+ annual orders by putting structure around fulfillment, inventory, customer support and outsourced operations.",
-        "Reduced operating costs by 30%+ through BPO restructuring, workflow automation and cleaner process standards, improving both margin and execution speed.",
-        "Built systems that allowed the business to grow without adding headcount at the same pace, which kept the operation leaner and more profitable."
+        "Scaled operations to 55,000+ annual orders through process standards, workflow automation and team/vendor coordination.",
+        "Reduced operating costs by 30%+ and supported growth without increasing headcount at the same rate.",
+        "Kept decisions focused on margin, customer experience and dependable execution."
       ]
     },
     {
       "role": "Director of Operations",
-      "company": "Horizon Expo LLC | Las Vegas, NV | International B2B Exhibition and Events",
+      "company": "Horizon Expo LLC | Las Vegas, NV | International B2B Exhibitions",
       "period": "May 2005 - Sep 2008",
-      "description": "Founded and ran a boutique international exhibition company, managing the full operating engine behind cross-border real estate events.",
+      "description": "Founded and operated a cross-border exhibition business involving sponsors, exhibitors, venues, vendors and attendees.",
       "bullets": [
-        "Executed three pan-India real estate expos within 18 months, including a landmark event at Madison Square Garden, New York.",
-        "Led vendors, sponsors, logistics, permits, delegate coordination, venue operations and stakeholder communication across multiple geographies.",
-        "Earned three FIA industry excellence awards for event execution and international business coordination."
+        "Delivered three major India-focused real estate expos in the United States within 18 months, including an event at Madison Square Garden.",
+        "Managed commercial planning, stakeholder relationships, logistics, permits, vendors and onsite delivery across multiple geographies.",
+        "Earned three FIA excellence awards for event execution and international business coordination."
       ]
     },
     {
-      "role": "Account Manager - Enterprise Technology",
-      "company": "CaminoSoft Corp | Westlake Village, CA | ILM and High-Availability Solutions",
-      "period": "Apr 2002 - Apr 2005",
-      "description": "Managed enterprise technology accounts and supported adoption across mid-market and Fortune 500 environments.",
+      "role": "Earlier Technology & Business Development",
+      "company": "CaminoSoft / Soffia Tech | California | Enterprise Technology, Staffing and BPO",
+      "period": "2000 - 2005",
+      "description": "Built enterprise account, partner and business-development experience across technology and outsourced services.",
       "bullets": [
-        "Worked with clients and channel partners to support account growth, technology adoption and long-term relationship development.",
-        "Built experience with enterprise sales motions and partner ecosystems including Dell, EMC, Novell and Ingram Micro."
-      ]
-    },
-    {
-      "role": "Business Development Officer",
-      "company": "Soffia Tech Inc | Fremont, CA | Staffing and BPO | Fortune 1000",
-      "period": "Feb 2000 - Mar 2002",
-      "description": "Built early experience in BPO, staffing, enterprise client development and account coordination.",
-      "bullets": [
-        "Developed strategic account pipelines across staffing and BPO verticals.",
-        "Generated repeat Fortune 1000 business through consultative relationship management and reliable follow-through."
+        "Managed enterprise technology accounts and partner relationships across mid-market and Fortune 500 environments.",
+        "Generated repeat Fortune 1000 business through consultative communication and reliable follow-through."
       ]
     }
   ],
   "capabilities": [
     {
-      "title": "Founder's Office and Strategy",
+      "title": "AI Solutions & Orchestration",
       "items": [
-        "Strategic direction",
-        "Founder-level execution",
-        "Business model thinking",
-        "Prioritization and follow-through",
+        "Voice AI and AI agents",
+        "Retrieval-augmented generation",
+        "Agent and prompt specifications",
+        "OpenAI API",
+        "ChatGPT/Codex, Claude and Gemini",
+        "n8n, Make and Vapi"
+      ]
+    },
+    {
+      "title": "End-to-End Delivery",
+      "items": [
+        "Use-case and ROI definition",
+        "Workflow and process design",
+        "APIs, webhooks and integrations",
+        "UAT and edge-case testing",
+        "Launch and adoption",
+        "Runbooks and production support"
+      ]
+    },
+    {
+      "title": "Operations & Leadership",
+      "items": [
+        "Founder-level ownership",
         "Cross-functional leadership",
-        "Startup launch and turnaround"
+        "Team and vendor management",
+        "Customer operations",
+        "Cost and margin improvement",
+        "Scaling with lean resources"
       ]
     },
     {
-      "title": "Operations and Margin",
+      "title": "Governance & Compliance",
       "items": [
-        "Operating model design",
-        "P&L and budget ownership",
-        "Process discipline",
-        "BPO and vendor governance",
-        "Supply chain and fulfillment",
-        "Cost reduction and margin improvement"
-      ]
-    },
-    {
-      "title": "AML and Compliance Operations",
-      "items": [
-        "BSA/AML operations",
+        "BSA/AML and MSB operations",
         "KYC, CDD and EDD",
-        "SAR/CTR workflows",
-        "FinCEN/MSB reporting",
-        "Digital asset compliance",
-        "Audit readiness"
-      ]
-    },
-    {
-      "title": "AI and Automation Practice",
-      "items": [
-        "AI workflow strategy",
-        "LLM-enabled reporting",
-        "Process automation",
-        "Customer onboarding workflows",
-        "API workflow orchestration",
-        "Tools: n8n, Make, Replit, Bolt"
+        "Human-in-the-loop review",
+        "Role-based access",
+        "Audit trails and data separation",
+        "Release and rollback readiness"
       ]
     }
   ],
   "targetRoles": [
-    "Founder's Office",
-    "Director of Operations",
-    "Senior Director, Operations",
-    "Head of Operations",
-    "Business Operations and Transformation",
-    "FinTech Operations",
-    "AML and Compliance Operations"
+    "AI Implementation Lead",
+    "AI Solutions Lead",
+    "AI Transformation Program Lead",
+    "AI Operations",
+    "Customer Implementation",
+    "Business Operations & Automation"
   ],
   "featuredProjects": [
     {
-      "title": "Trading Agents",
-      "type": "Agentic Trading Research",
-      "url": "https://github.com/pankajmanchnda/trading-agents",
-      "description": "Public project for global trading agents and performance reports, showing hands-on experimentation with agent-driven research workflows.",
-      "tags": [
-        "Trading Agents",
-        "Performance Reports",
-        "Workflow Automation"
-      ]
+      "title": "AOS Operations Autopilot",
+      "type": "Voice AI + Grounded RAG",
+      "url": "",
+      "description": "Retrieves from an operating knowledge base, grounds responses through the OpenAI API and connects intake with CRM updates, follow-up and management reporting.",
+      "tags": ["Agent Orchestration", "RAG", "OpenAI API"]
     },
     {
-      "title": "Swing Trading Scanner",
-      "type": "Research Widget",
-      "url": "https://github.com/pankajmanchnda/swing-trading-scanner",
-      "description": "Nifty trading research widget focused on turning market data review into a structured scanning and research workflow.",
-      "tags": [
-        "Nifty",
-        "Research Workflow",
-        "Automation Practice"
-      ]
+      "title": "Temple Accounting Automation",
+      "type": "WhatsApp-to-Ledger Workflow",
+      "url": "https://silver-springs-mandir.pages.dev",
+      "description": "Converts natural-language messages into controlled ledger records with sender authorization, normalization, deduplication, audit logs and privacy-separated reporting.",
+      "tags": ["Accounting Automation", "Auditability", "Low Cost"]
+    },
+    {
+      "title": "SilverGate",
+      "type": "Secure Multi-Role Workflow",
+      "url": "https://silvergate.agenticopsstudio.com",
+      "description": "Coordinates residents, security guards and administrators through OTP/QR approvals, role-based routing, audit trails and a 36-case release suite.",
+      "tags": ["Workflow Design", "Access Control", "UAT"]
+    },
+    {
+      "title": "Tatkal Sunset",
+      "type": "AI Search + Commercial Model",
+      "url": "https://agenticopsstudio.com/tatkalsunset/",
+      "description": "Function-grounded rail-booking prototype with transparent fare bands, FIFO cancellation matching and a financial model within +INR 984 per departure (+0.088%).",
+      "tags": ["Function Calling", "Edge Cases", "Financial Modeling"]
     }
   ],
   "operatingModel": [
     {
-      "step": "See the Direction",
-      "detail": "Understand the founder's priorities, the market opportunity, the operating gaps and the few decisions that matter most."
+      "step": "Discover",
+      "detail": "Understand the business outcome, users, existing workflow, constraints, economics and risks before choosing a tool."
     },
     {
-      "step": "Align the Team",
-      "detail": "Give people clear ownership, practical goals and a rhythm that keeps work moving without confusion."
+      "step": "Design and Direct",
+      "detail": "Define the target workflow, data, integrations, agent instructions, success measures and ownership."
     },
     {
-      "step": "Build the System",
-      "detail": "Turn ideas into workflows, controls, vendor routines, reporting habits and automation where it makes sense."
+      "step": "Validate",
+      "detail": "Test outputs against policies, permissions, edge cases, failure modes and the needs of the people doing the work."
     },
     {
-      "step": "Improve the Margin",
-      "detail": "Measure what is working, reduce waste, tighten execution and scale the business without letting costs grow unchecked."
+      "step": "Launch and Scale",
+      "detail": "Roll out with documentation, training, feedback loops, measurable outcomes and a clear path to improve."
     }
   ],
   "education": [
@@ -236,11 +229,6 @@
       "credential": "AI Generalist Certification Program",
       "institution": "Professional Development",
       "period": "In Progress | 2025-2026"
-    },
-    {
-      "credential": "Short-Term Momentum and Price Action Trading Certification",
-      "institution": "Professional Development",
-      "period": "2025"
     }
   ],
   "languages": [
@@ -248,8 +236,9 @@
     "Hindi (Native)"
   ],
   "differentiators": [
-    "Works like an owner, not only as a functional manager; comfortable taking a broad business problem and staying with it until execution becomes clear.",
-    "Able to lead teams through ambiguity by setting direction, simplifying priorities and keeping people motivated around practical outcomes.",
-    "Brings a rare mix of commercial judgment, operating discipline, AML/compliance experience, vendor management and practical AI adoption."
+    "Thinks like a founder and remains close enough to the work to turn broad goals into functioning systems.",
+    "Combines operating and commercial judgment with the ability to direct AI-assisted development and evaluate what comes back.",
+    "Experience in regulated MSB and crypto operations shapes a careful approach to guardrails, auditability, privacy and human oversight.",
+    "Builds lean, low-cost solutions and scales what works with speed, precision and attention to profit."
   ]
 }

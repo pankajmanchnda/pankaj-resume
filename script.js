@@ -15,7 +15,9 @@ function renderContact(contact) {
   const contactItems = [
     { label: contact.phone, href: `tel:${contact.phone.replace(/[^\d+]/g, "")}` },
     { label: contact.email, href: `mailto:${contact.email}` },
-    { label: "View My GitHub Projects", href: contact.github },
+    { label: "LinkedIn", href: contact.linkedin },
+    { label: "GitHub Projects", href: contact.github },
+    { label: "AI Portfolio", href: contact.portfolio },
     { label: contact.location },
     { label: contact.workStyle }
   ].filter((item) => item.label);
@@ -138,6 +140,50 @@ function renderCapabilities(capabilities) {
   });
 }
 
+function renderProjects(projects) {
+  const container = byId("projectGrid");
+  container.innerHTML = "";
+
+  projects.forEach((project) => {
+    const card = document.createElement("article");
+    card.className = "capability-card";
+
+    const type = document.createElement("p");
+    type.className = "period";
+    type.textContent = project.type;
+
+    const title = document.createElement("h3");
+    title.textContent = project.title;
+
+    const description = document.createElement("p");
+    description.className = "description";
+    description.textContent = project.description;
+
+    const tags = document.createElement("div");
+    tags.className = "tag-list";
+    project.tags.forEach((item) => {
+      const tag = document.createElement("span");
+      tag.className = "tag";
+      tag.textContent = item;
+      tags.appendChild(tag);
+    });
+
+    card.append(type, title, description, tags);
+
+    if (project.url) {
+      const link = document.createElement("a");
+      link.className = "contact-pill";
+      link.href = project.url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = "View live project";
+      card.appendChild(link);
+    }
+
+    container.appendChild(card);
+  });
+}
+
 function renderOperatingModel(steps) {
   const container = byId("operatingModel");
   container.innerHTML = "";
@@ -203,7 +249,7 @@ function renderDifferentiators(items) {
 function renderResume(data) {
   resumeData = data;
 
-  document.title = `${data.name} | Operations, AML & AI Transformation`;
+  document.title = `${data.name} | AI Implementation, Operations & Orchestration`;
   byId("focusLine").textContent = data.focusAreas.join(" | ");
   byId("profileName").textContent = data.name;
   byId("headline").textContent = data.headline;
@@ -217,6 +263,7 @@ function renderResume(data) {
   renderTags("targetRoles", data.targetRoles);
   renderExperience(data.experience);
   renderCapabilities(data.capabilities);
+  renderProjects(data.featuredProjects || []);
   renderOperatingModel(data.operatingModel);
   renderEducation(data.education, data.languages);
   renderDifferentiators(data.differentiators);
